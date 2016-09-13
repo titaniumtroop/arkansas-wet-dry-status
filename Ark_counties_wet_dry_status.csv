@@ -1,4 +1,4 @@
-county_id,county,wet,Exceptions
+county_id,county,wet,exceptions
 1,Arkansas,TRUE,No liquor - Town of Humphrey
 2,Ashley,FALSE,
 3,Baxter,TRUE,
@@ -40,7 +40,7 @@ county_id,county,wet,Exceptions
 39,Lee,TRUE,
 40,Lincoln,FALSE,
 41,Little River,FALSE,
-42,Logan,TRUE,"Wet for Beer & Native Wine Onlyæ_ Except Southern Judicial District (consisting of Barber, Blue Mountain, Boone, Cauthron, Petit Jean, Reveille, Sugar Creek, Tomlinson and Washburn Townships), Delaware, and Ellsworth Townships and City of Caulksville"
+42,Logan,TRUE,"Wet for Beer & Native Wine Only__ Except Southern Judicial District (consisting of Barber, Blue Mountain, Boone, Cauthron, Petit Jean, Reveille, Sugar Creek, Tomlinson and Washburn Townships), Delaware, and Ellsworth Townships and City of Caulksville"
 43,Lonoke,FALSE,
 44,Madison,TRUE,
 45,Marion,TRUE,"Except Precinct 22, Precinct 23 and Precinct 24"
@@ -50,7 +50,7 @@ county_id,county,wet,Exceptions
 49,Montgomery,FALSE,
 50,Nevada,FALSE,
 51,Newton,FALSE,
-52,Ouachita,TRUE,"Except Marion,æWashington and Red Hill Townships and Bearden City"
+52,Ouachita,TRUE,"Except Marion,_Washington and Red Hill Townships and Bearden City"
 53,Perry,FALSE,
 54,Phillips,TRUE,
 55,Pike,FALSE,
@@ -66,11 +66,11 @@ county_id,county,wet,Exceptions
 65,Sebastian,TRUE,DRY except City of Fort Smith (Upper Township)
 66,Sevier,FALSE,
 67,Sharp,TRUE,
-68,St. Francis,TRUE,Except City of Colt
+68,St Francis,TRUE,Except City of Colt
 69,Stone,FALSE,
 70,Union,TRUE,"Except Henderson, Johnson, Norphlet and Jackson Townships; City of Strong; Union Precinct of Franklin Township and Three Creeks Precinct of Cornie Township, Wesson Township, El Dorado Township Country Box 3 and Box 4"
 71,Van Buren,FALSE,
 72,Washington,TRUE,"Except Cane Hill, Crawford, Greenland, Price, Starr Hill, Valley, West Fork, White River, Winslow and Vineyard Townships, City of Prairie Grove and City of Farmington"
 73,White,FALSE,
-74,Woodruff,TRUE,Town of Augusta Wet foræBeer Only
+74,Woodruff,TRUE,Town of Augusta Wet for_Beer Only
 75,Yell,FALSE,

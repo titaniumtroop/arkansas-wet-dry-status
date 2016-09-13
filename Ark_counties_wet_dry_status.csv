@@ -1,0 +1,79 @@
+county_id,county,wet,Exceptions
+1,Arkansas,TRUE,No liquor - Town of Humphrey
+2,Ashley,FALSE,
+3,Baxter,TRUE,
+4,Benton,TRUE,
+5,Boone,TRUE,
+6,Bradley,FALSE,
+7,Calhoun,TRUE,Except Caswell Township
+8,Carroll,TRUE,"Except Cabanal, Coin, Carrollton, Osage, Omega, Piney, Liberty, Dry Fork, Long Creek, Northeast Prairie, Northwest Prairie, Southwest Prairie, Northwest Hickory, North Yocum, South Yocum and Polo Townships; No liquor – Town of Green Forest"
+9,Chicot,TRUE,
+10,Clark,TRUE,
+11,Clay,FALSE,
+12,Cleburne,FALSE,
+13,Cleveland,TRUE,"Except Hurricane, Whiteoak, Lee, Rison, Smith, Rowell, Whiteville and Redland Townships"
+14,Columbia,TRUE,
+15,Conway,TRUE,"Except Cedar Falls, Austin and Howard Townships"
+16,Craighead,FALSE,
+17,Crawford,FALSE,
+18,Crittenden,TRUE,Except Tyronza Township; No liquor – Jasper Township
+19,Cross,TRUE,Except Hickory Ridge Township
+20,Dallas,TRUE,"Except Manchester, Nix and Owen Townships"
+21,Desha,TRUE,
+22,Drew,TRUE,"Except Marion, Bearhouse, Clear Creek, Collins, Cominto, Crook, Franklin, Saline, Spring Hill and Veasey Townships"
+23,Faulkner,FALSE,
+24,Franklin,TRUE,Except Prairie and Alix Townships; No liquor – Town of Branch
+25,Fulton,FALSE,
+26,Garland,TRUE,"Except Farmer, Lee, Phillips, Baxter and Buckville Townships"
+27,Grant,FALSE,
+28,Greene,TRUE,"Except Salem, Poland, Bryan and Collier Townships and Ward 4 of the City of Paragould"
+29,Hempstead,FALSE,
+30,Hot Spring,FALSE,
+31,Howard,FALSE,
+32,Independence,FALSE,
+33,Izard,FALSE,
+34,Jackson,TRUE,Except Barren and Cow Lake Townships
+35,Jefferson,TRUE,Except Washington Township; No liquor – Town of Humphrey
+36,Johnson,FALSE,
+37,Lafayette,FALSE,
+38,Lawrence,FALSE,
+39,Lee,TRUE,
+40,Lincoln,FALSE,
+41,Little River,FALSE,
+42,Logan,TRUE,"Wet for Beer & Native Wine Only – Except Southern Judicial District (consisting of Barber, Blue Mountain, Boone, Cauthron, Petit Jean, Reveille, Sugar Creek, Tomlinson and Washburn Townships), Delaware, and Ellsworth Townships and City of Caulksville"
+43,Lonoke,FALSE,
+44,Madison,TRUE,
+45,Marion,TRUE,"Except Precinct 22, Precinct 23 and Precinct 24"
+46,Miller,TRUE,
+47,Mississippi,TRUE,"Except Town of Dell, City of Bassett and Dyess Township"
+48,Monroe,TRUE,Except Roc Roe Township
+49,Montgomery,FALSE,
+50,Nevada,FALSE,
+51,Newton,FALSE,
+52,Ouachita,TRUE,"Except Marion, Washington and Red Hill Townships and Bearden City"
+53,Perry,FALSE,
+54,Phillips,TRUE,
+55,Pike,FALSE,
+56,Poinsett,TRUE,"Except Towns of Tyronza, Fisher and Weiner, Greenwood Township (except City of Lepanto) and Willis Township (except City of Trumann)"
+57,Polk,FALSE,
+58,Pope,FALSE,
+59,Prairie,TRUE,Except Des Arc Township
+60,Pulaski,TRUE,"Except Gray and Union Townships, and North Little Rock Precincts Ward 4, 157 (4D, 4E, 4K), 156 (4M), 158 (4P & 4Q), and Precinct 614 (old Bayou Meto area)"
+61,Randolph,FALSE,
+62,Saline,TRUE,
+63,Scott,FALSE,
+64,Searcy,FALSE,
+65,Sebastian,TRUE,DRY except City of Fort Smith (Upper Township)
+66,Sevier,FALSE,
+67,Sharp,TRUE,
+68,St. Francis,TRUE,Except City of Colt
+69,Stone,FALSE,
+70,Union,TRUE,"Except Henderson, Johnson, Norphlet and Jackson Townships; City of Strong; Union Precinct of Franklin Township and Three Creeks Precinct of Cornie Township, Wesson Township, El Dorado Township Country Box 3 and Box 4"
+71,Van Buren,FALSE,
+72,Washington,TRUE,"Except Cane Hill, Crawford, Greenland, Price, Starr Hill, Valley, West Fork, White River, Winslow and Vineyard Townships, City of Prairie Grove and City of Farmington"
+73,White,FALSE,
+74,Woodruff,TRUE,Town of Augusta Wet for Beer Only
+75,Yell,FALSE,
+,,,
+source: http://www.dfa.arkansas.gov/offices/abc/rules/Pages/wetCounties.aspx,,,
+"last visited: September 12, 2016",,,

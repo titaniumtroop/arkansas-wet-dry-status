@@ -6,7 +6,7 @@ county_id,county,wet,Exceptions
 5,Boone,TRUE,
 6,Bradley,FALSE,
 7,Calhoun,TRUE,Except Caswell Township
-8,Carroll,TRUE,"Except Cabanal, Coin, Carrollton, Osage, Omega, Piney, Liberty, Dry Fork, Long Creek, Northeast Prairie, Northwest Prairie, Southwest Prairie, Northwest Hickory, North Yocum, South Yocum and Polo Townships; No liquor – Town of Green Forest"
+8,Carroll,TRUE,"Except Cabanal, Coin, Carrollton, Osage, Omega, Piney, Liberty, Dry Fork, Long Creek, Northeast Prairie, Northwest Prairie, Southwest Prairie, Northwest Hickory, North Yocum, South Yocum and Polo Townships; No liquor _ Town of Green Forest"
 9,Chicot,TRUE,
 10,Clark,TRUE,
 11,Clay,FALSE,
@@ -16,13 +16,13 @@ county_id,county,wet,Exceptions
 15,Conway,TRUE,"Except Cedar Falls, Austin and Howard Townships"
 16,Craighead,FALSE,
 17,Crawford,FALSE,
-18,Crittenden,TRUE,Except Tyronza Township; No liquor – Jasper Township
+18,Crittenden,TRUE,Except Tyronza Township; No liquor _ Jasper Township
 19,Cross,TRUE,Except Hickory Ridge Township
 20,Dallas,TRUE,"Except Manchester, Nix and Owen Townships"
 21,Desha,TRUE,
 22,Drew,TRUE,"Except Marion, Bearhouse, Clear Creek, Collins, Cominto, Crook, Franklin, Saline, Spring Hill and Veasey Townships"
 23,Faulkner,FALSE,
-24,Franklin,TRUE,Except Prairie and Alix Townships; No liquor – Town of Branch
+24,Franklin,TRUE,Except Prairie and Alix Townships; No liquor _ Town of Branch
 25,Fulton,FALSE,
 26,Garland,TRUE,"Except Farmer, Lee, Phillips, Baxter and Buckville Townships"
 27,Grant,FALSE,
@@ -33,14 +33,14 @@ county_id,county,wet,Exceptions
 32,Independence,FALSE,
 33,Izard,FALSE,
 34,Jackson,TRUE,Except Barren and Cow Lake Townships
-35,Jefferson,TRUE,Except Washington Township; No liquor – Town of Humphrey
+35,Jefferson,TRUE,Except Washington Township; No liquor _ Town of Humphrey
 36,Johnson,FALSE,
 37,Lafayette,FALSE,
 38,Lawrence,FALSE,
 39,Lee,TRUE,
 40,Lincoln,FALSE,
 41,Little River,FALSE,
-42,Logan,TRUE,"Wet for Beer & Native Wine Only – Except Southern Judicial District (consisting of Barber, Blue Mountain, Boone, Cauthron, Petit Jean, Reveille, Sugar Creek, Tomlinson and Washburn Townships), Delaware, and Ellsworth Townships and City of Caulksville"
+42,Logan,TRUE,"Wet for Beer & Native Wine OnlyÊ_ Except Southern Judicial District (consisting of Barber, Blue Mountain, Boone, Cauthron, Petit Jean, Reveille, Sugar Creek, Tomlinson and Washburn Townships), Delaware, and Ellsworth Townships and City of Caulksville"
 43,Lonoke,FALSE,
 44,Madison,TRUE,
 45,Marion,TRUE,"Except Precinct 22, Precinct 23 and Precinct 24"
@@ -50,7 +50,7 @@ county_id,county,wet,Exceptions
 49,Montgomery,FALSE,
 50,Nevada,FALSE,
 51,Newton,FALSE,
-52,Ouachita,TRUE,"Except Marion, Washington and Red Hill Townships and Bearden City"
+52,Ouachita,TRUE,"Except Marion,ÊWashington and Red Hill Townships and Bearden City"
 53,Perry,FALSE,
 54,Phillips,TRUE,
 55,Pike,FALSE,
@@ -72,8 +72,5 @@ county_id,county,wet,Exceptions
 71,Van Buren,FALSE,
 72,Washington,TRUE,"Except Cane Hill, Crawford, Greenland, Price, Starr Hill, Valley, West Fork, White River, Winslow and Vineyard Townships, City of Prairie Grove and City of Farmington"
 73,White,FALSE,
-74,Woodruff,TRUE,Town of Augusta Wet for Beer Only
+74,Woodruff,TRUE,Town of Augusta Wet forÊBeer Only
 75,Yell,FALSE,
-,,,
-source: http://www.dfa.arkansas.gov/offices/abc/rules/Pages/wetCounties.aspx,,,
-"last visited: September 12, 2016",,,

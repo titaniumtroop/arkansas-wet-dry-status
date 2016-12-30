@@ -60,13 +60,13 @@ county_id,FIPS,county,wet,exceptions
 59,117,Prairie,TRUE,Except Des Arc Township
 60,119,Pulaski,TRUE,"Except Gray and Union Townships, and North Little Rock Precincts Ward 4, 157 (4D, 4E, 4K), 156 (4M), 158 (4P & 4Q), and Precinct 614 (old Bayou Meto area)"
 61,121,Randolph,FALSE,
-62,123,Saline,TRUE,
-63,125,Scott,FALSE,
-64,127,Searcy,FALSE,
-65,129,Sebastian,TRUE,DRY except City of Fort Smith (Upper Township)
-66,131,Sevier,FALSE,
-67,133,Sharp,TRUE,
-68,135,St Francis,TRUE,Except City of Colt
+62,123,St Francis,TRUE,Except City of Colt
+63,125,Saline,TRUE,
+64,127,Scott,FALSE,
+65,129,Searcy,FALSE,
+66,131,Sebastian,TRUE,DRY except City of Fort Smith (Upper Township)
+67,133,Sevier,FALSE,
+68,135,Sharp,TRUE,
 69,137,Stone,FALSE,
 70,139,Union,TRUE,"Except Henderson, Johnson, Norphlet and Jackson Townships; City of Strong; Union Precinct of Franklin Township and Three Creeks Precinct of Cornie Township, Wesson Township, El Dorado Township Country Box 3 and Box 4"
 71,141,Van Buren,FALSE,
